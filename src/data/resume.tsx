@@ -217,7 +217,7 @@ export const DATA = {
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "",
+      image: "/projects/float.jpg",
       video: "",
     },
     {
@@ -229,7 +229,7 @@ export const DATA = {
         "Founder. An experiential learning platform that connects university students with nonprofits needing project-based support. Students get real-world, portfolio-building experience across majors, and nonprofits get technical and operational talent. Universities are the primary institutional partners.",
       technologies: ["React", "TypeScript", "Supabase", "PostgreSQL", "Vercel"],
       links: [],
-      image: "",
+      image: "/projects/quickeer.jpg",
       video: "",
     },
     {
@@ -247,7 +247,7 @@ export const DATA = {
           icon: <Icons.globe className="size-3" />,
         },
       ],
-      image: "",
+      image: "/projects/labopen.jpg",
       video: "",
     },
     {
@@ -265,7 +265,7 @@ export const DATA = {
           icon: <Icons.globe className="size-3" />,
         },
       ],
-      image: "",
+      image: "/projects/rowdyplan.jpg",
       video: "",
     },
     {
@@ -283,7 +283,7 @@ export const DATA = {
           icon: <Icons.globe className="size-3" />,
         },
       ],
-      image: "",
+      image: "/projects/shift.jpg",
       video: "",
     },
     {
@@ -295,19 +295,25 @@ export const DATA = {
         "An interactive educational game that teaches students how AI learns from examples. Players build a training set, run a weighted k-nearest-neighbors prediction engine, test predictions and retrain the model. Includes pre- and post-surveys to measure learning and perceptions of AI.",
       technologies: ["TypeScript", "JavaScript", "k-Nearest Neighbors", "Data Analysis"],
       links: [],
-      image: "",
+      image: "/projects/monster-munch-city.jpg",
       video: "",
     },
     {
       title: "Private Equity Fund Return Predictor",
-      href: "",
+      href: "https://github.com/Maneeshk29/pe-fund-return-predictor",
       dates: "May 2025",
       active: false,
       description:
         "A machine-learning system for forecasting private equity fund returns from historical performance, financial ratios, market conditions and risk indicators, using Ridge Regression, Random Forest and XGBoost to support investment screening.",
       technologies: ["Python", "Pandas", "Scikit-learn", "TensorFlow", "XGBoost"],
-      links: [],
-      image: "",
+      links: [
+        {
+          type: "Source",
+          href: "https://github.com/Maneeshk29/pe-fund-return-predictor",
+          icon: <Icons.github className="size-3" />,
+        },
+      ],
+      image: "/projects/pe-fund-return-predictor.jpg",
       video: "",
     },
   ],
@@ -360,7 +366,7 @@ export const DATA = {
   funProjects: [
     {
       title: "PointSwap: Loyalty Points Marketplace",
-      href: "https://github.com/Maneeshk29/loyalty-points-marketplace",
+      href: "https://pointswap.vercel.app",
       dates: "2026",
       active: true,
       description:
@@ -368,17 +374,22 @@ export const DATA = {
       technologies: ["HTML", "CSS", "JavaScript"],
       links: [
         {
+          type: "Website",
+          href: "https://pointswap.vercel.app",
+          icon: <Icons.globe className="size-3" />,
+        },
+        {
           type: "Source",
           href: "https://github.com/Maneeshk29/loyalty-points-marketplace",
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "/fun/pointswap.jpg",
+      image: "/projects/pointswap.jpg",
       video: "",
     },
     {
       title: "Closer: Long-Distance Couples App",
-      href: "https://github.com/Maneeshk29/long-distance-couples-app",
+      href: "https://closer-ldr.vercel.app",
       dates: "2026",
       active: true,
       description:
@@ -386,12 +397,17 @@ export const DATA = {
       technologies: ["HTML", "CSS", "JavaScript", "Web Audio API", "Canvas"],
       links: [
         {
+          type: "Website",
+          href: "https://closer-ldr.vercel.app",
+          icon: <Icons.globe className="size-3" />,
+        },
+        {
           type: "Source",
           href: "https://github.com/Maneeshk29/long-distance-couples-app",
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "/fun/closer.jpg",
+      image: "/projects/closer.jpg",
       video: "",
     },
     {
@@ -409,7 +425,7 @@ export const DATA = {
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "",
+      image: "/projects/twinder.jpg",
       video: "",
     },
   ],
