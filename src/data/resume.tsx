@@ -102,11 +102,11 @@ export const DATA = {
     },
     {
       company: "Forward Edge AI",
-      href: "",
+      href: "https://www.forwardedge.ai",
       badges: [],
       location: "Remote",
       title: "Data Engineer / AI Data Operations Engineer Intern",
-      logoUrl: "",
+      logoUrl: "/logos/forward-edge-ai.png",
       start: "Feb 2026",
       end: "Sep 2026",
       description:
@@ -126,11 +126,11 @@ export const DATA = {
     },
     {
       company: "V68 Capital LLC",
-      href: "",
+      href: "https://v68capital.com",
       badges: [],
       location: "New York, NY",
       title: "Private Equity Intern, Data Analytics",
-      logoUrl: "",
+      logoUrl: "/logos/v68-capital.png",
       start: "Mar 2025",
       end: "Sep 2025",
       description:
@@ -150,11 +150,11 @@ export const DATA = {
     },
     {
       company: "Code Equity",
-      href: "",
+      href: "https://code-equity.org",
       badges: [],
       location: "San Antonio, TX",
       title: "Head of Business Strategy & Founder of UTSA Student Chapter",
-      logoUrl: "",
+      logoUrl: "/logos/code-equity.png",
       start: "Jul 2024",
       end: "Jan 2026",
       description:
@@ -162,11 +162,11 @@ export const DATA = {
     },
     {
       company: "Sports Media Inc.",
-      href: "",
+      href: "https://sportsmedia.net",
       badges: [],
       location: "Severance, CO (Remote)",
       title: "Computer Science Intern",
-      logoUrl: "",
+      logoUrl: "/logos/sports-media.png",
       start: "Jul 2024",
       end: "Sep 2024",
       description:
