@@ -22,7 +22,7 @@ export const DATA = {
     "Software Engineer, Data Engineer, Data Scientist and Entrepreneur. I build AI-powered products, scalable data systems, and technology that creates measurable impact.",
   summary:
     "I'm a senior Computer Science student at [the University of Texas at San Antonio](/#education), concentrating in Data Science with a minor in Business (expected May 2027). My interests sit where software engineering, AI, data science, business intelligence and entrepreneurship meet. I've worked across startups, private equity, nonprofits and enterprise technology: I built financial reporting tools at [the University of Texas System](/#work), automated social media data pipelines at [Forward Edge AI](/#work), and email infrastructure at 99 Tutors. Outside of work I [found ventures and compete in hackathons](/#projects). I believe technology is most valuable when it creates a positive, measurable impact.",
-  avatarUrl: "",
+  avatarUrl: "/me.jpg",
   skills: [
     { name: "Python", icon: Python },
     { name: "TypeScript", icon: Typescript },
@@ -355,6 +355,62 @@ export const DATA = {
           href: "https://rowdy-plan-pitchdeck-35a446e4-c5c0.vercel.app/#9",
         },
       ],
+    },
+  ],
+  funProjects: [
+    {
+      title: "PointSwap: Loyalty Points Marketplace",
+      href: "https://github.com/Maneeshk29/loyalty-points-marketplace",
+      dates: "2026",
+      active: true,
+      description:
+        "A marketplace where people trade unused loyalty points for rewards they'll actually use. For example, if Chick-fil-A and Starbucks participated, one customer could trade Chick-fil-A points for another customer's Starbucks Stars. Customers get more choice, and participating brands could see more visits when customers redeem their new rewards.",
+      technologies: ["HTML", "CSS", "JavaScript"],
+      links: [
+        {
+          type: "Source",
+          href: "https://github.com/Maneeshk29/loyalty-points-marketplace",
+          icon: <Icons.github className="size-3" />,
+        },
+      ],
+      image: "",
+      video: "",
+    },
+    {
+      title: "Closer: Long-Distance Couples App",
+      href: "https://github.com/Maneeshk29/long-distance-couples-app",
+      dates: "2026",
+      active: true,
+      description:
+        "An app that helps long-distance couples reconnect after an argument. If both partners opt in, the app can use audio from an in-app call to suggest a moment to pause and revisit a shared memory. It finds photos of the couple in albums they've approved and automatically creates a collage or a short video set to one of their favorite songs.",
+      technologies: ["HTML", "CSS", "JavaScript", "Web Audio API", "Canvas"],
+      links: [
+        {
+          type: "Source",
+          href: "https://github.com/Maneeshk29/long-distance-couples-app",
+          icon: <Icons.github className="size-3" />,
+        },
+      ],
+      image: "",
+      video: "",
+    },
+    {
+      title: "Twinder",
+      href: "https://github.com/Maneeshk29/twinder",
+      dates: "2026",
+      active: true,
+      description:
+        "A social app that helps you find your look-alike. Upload a selfie and Twinder compares it with photos from other users who've opted in. You can see your closest matches side by side and connect if you both want to meet.",
+      technologies: ["Computer Vision", "Web App"],
+      links: [
+        {
+          type: "Source",
+          href: "https://github.com/Maneeshk29/twinder",
+          icon: <Icons.github className="size-3" />,
+        },
+      ],
+      image: "",
+      video: "",
     },
   ],
 };
