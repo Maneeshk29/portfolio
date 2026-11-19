@@ -141,12 +141,24 @@ export const DATA = {
       href: "https://www.utsa.edu",
       badges: [],
       location: "San Antonio, TX",
-      title: "Strategist; Advocacy Intern (2026–2027 cohort)",
+      title: "Advocacy Intern (2026–2027 cohort)",
+      logoUrl: logo("utsa.edu"),
+      start: "2026",
+      end: "2027",
+      description:
+        "Selected for the 2026–2027 Najim Advocacy Internship Program, with sessions beginning February 2027.",
+    },
+    {
+      company: "Najim Center, UT San Antonio",
+      href: "https://www.utsa.edu",
+      badges: [],
+      location: "San Antonio, TX",
+      title: "Strategist",
       logoUrl: logo("utsa.edu"),
       start: "Sep 2026",
-      end: "Present",
+      end: "Nov 2026",
       description:
-        "Strategist Program (Sep–Nov 2026): worked with a student consulting team on a growth and strategy challenge for a nonprofit of roughly $30M in scale, covering research, organizational analysis, strategic planning and recommendations. Selected for the 2026–2027 Najim Advocacy Internship Program, with sessions beginning February 2027.",
+        "Strategist Program: worked with a student consulting team on a growth and strategy challenge for a nonprofit of roughly $30M in scale, covering research, organizational analysis, strategic planning and recommendations.",
     },
     {
       company: "Code Equity",
