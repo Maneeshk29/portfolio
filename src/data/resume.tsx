@@ -234,7 +234,7 @@ export const DATA = {
     },
     {
       title: "LabOpen",
-      href: "https://labopen-liard.vercel.app/",
+      href: "https://labopen-pitch.vercel.app/LabOpen-Pitch.pdf",
       dates: "2026 - Present",
       active: true,
       description:
@@ -242,12 +242,12 @@ export const DATA = {
       technologies: ["Next.js", "TypeScript", "Supabase", "pgvector", "Machine Learning"],
       links: [
         {
-          type: "Website",
-          href: "https://labopen-liard.vercel.app/",
+          type: "Pitch Deck",
+          href: "https://labopen-pitch.vercel.app/LabOpen-Pitch.pdf",
           icon: <Icons.globe className="size-3" />,
         },
       ],
-      image: "/projects/labopen.jpg",
+      image: "/projects/labopen-pitch.jpg",
       video: "",
     },
     {
