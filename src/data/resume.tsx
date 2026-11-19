@@ -373,7 +373,7 @@ export const DATA = {
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "",
+      image: "/fun/pointswap.jpg",
       video: "",
     },
     {
@@ -391,7 +391,7 @@ export const DATA = {
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "",
+      image: "/fun/closer.jpg",
       video: "",
     },
     {
