@@ -21,7 +21,10 @@ export const DATA = {
   description:
     "Software Engineer, Data Engineer, Data Scientist and Entrepreneur. I build AI-powered products, scalable data systems, and technology that creates measurable impact.",
   summary:
-    "I'm a senior Computer Science student at [the University of Texas at San Antonio](/#education), concentrating in Data Science with a minor in Business (expected May 2027). My interests sit where software engineering, AI, data science, business intelligence and entrepreneurship meet. I've worked across startups, private equity, nonprofits and enterprise technology: I built financial reporting tools at [the University of Texas System](/#work), automated social media data pipelines at [Forward Edge AI](/#work), and email infrastructure at 99 Tutors. Outside of work I [found ventures and compete in hackathons](/#projects). I believe technology is most valuable when it creates a positive, measurable impact.",
+    "I'm a Senior Computer Science student at [the University of Texas at San Antonio](/#education), concentrating in Data Science with a minor in Business.\n\n" +
+    "I love innovating, exploring ambitious ideas, and turning them into scalable solutions that solve real-world problems and create meaningful impact. My interests span Business, Software Engineering, Artificial Intelligence, Data Science, and Entrepreneurship.\n\n" +
+    "I'm passionate about building valuable solutions for businesses, nonprofits, enterprises, universities, and students. I enjoy identifying challenges, developing innovative approaches, and executing ideas from concept to reality.\n\n" +
+    "I'm continuously expanding my expertise in leadership, Software and Data Engineering, Research and Development, Sales, Business Development, Marketing, and Product Management. I enjoy combining technical knowledge with business strategy to build, launch, and scale impactful solutions.",
   avatarUrl: "/me.jpg",
   skills: [
     { name: "Python", icon: Python },
