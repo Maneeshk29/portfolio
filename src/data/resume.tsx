@@ -347,13 +347,18 @@ export const DATA = {
     },
     {
       title: "Private Equity Fund Return Predictor",
-      href: "https://github.com/Maneeshk29/pe-fund-return-predictor",
+      href: "https://pe-fund-return-predictor.vercel.app",
       dates: "May 2025",
       active: false,
       description:
         "A machine-learning system for forecasting private equity fund returns from historical performance, financial ratios, market conditions and risk indicators, using Ridge Regression, Random Forest and XGBoost to support investment screening.",
       technologies: ["Python", "Pandas", "Scikit-learn", "TensorFlow", "XGBoost"],
       links: [
+        {
+          type: "Website",
+          href: "https://pe-fund-return-predictor.vercel.app",
+          icon: <Icons.globe className="size-3" />,
+        },
         {
           type: "Source",
           href: "https://github.com/Maneeshk29/pe-fund-return-predictor",
@@ -477,13 +482,18 @@ export const DATA = {
     },
     {
       title: "Twinder",
-      href: "https://github.com/Maneeshk29/twinder",
+      href: "https://twinder-lookalike.vercel.app",
       dates: "2026",
       active: true,
       description:
         "A social app that helps you find your look-alike. Upload a selfie and Twinder compares it with photos from other users who've opted in. You can see your closest matches side by side and connect if you both want to meet.",
       technologies: ["Computer Vision", "Web App"],
       links: [
+        {
+          type: "Website",
+          href: "https://twinder-lookalike.vercel.app",
+          icon: <Icons.globe className="size-3" />,
+        },
         {
           type: "Source",
           href: "https://github.com/Maneeshk29/twinder",
