@@ -412,6 +412,24 @@ export const DATA = {
   ],
   funProjects: [
     {
+      title: "Rigly: Rent a Gaming Setup",
+      href: "https://rigly-gaming.vercel.app",
+      dates: "2026",
+      active: true,
+      description:
+        "A marketplace for gamers. People post their gaming setups (PC, console, VR or sim racing) and rent them out by the hour, so others can come and play on hardware they don't own. The same app lets gamers buy and sell new, unused and used gaming gear.",
+      technologies: ["HTML", "CSS", "JavaScript"],
+      links: [
+        {
+          type: "Website",
+          href: "https://rigly-gaming.vercel.app",
+          icon: <Icons.globe className="size-3" />,
+        },
+      ],
+      image: "/projects/rigly.jpg",
+      video: "",
+    },
+    {
       title: "PointSwap: Loyalty Points Marketplace",
       href: "https://pointswap.vercel.app",
       dates: "2026",
